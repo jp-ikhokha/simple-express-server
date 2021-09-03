@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "to test/mock fetch calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP Venter",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "serve": "^12.0.0"
+  }
+}
