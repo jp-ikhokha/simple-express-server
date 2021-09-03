@@ -1,5 +1,10 @@
 # simple-express-server
 
+To run 
+```javacript
+node index.js
+```
+
 ## To test fetch api error handling
 
 ```javascript
